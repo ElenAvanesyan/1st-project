@@ -1,0 +1,40 @@
+body {
+	
+}
+
+h1,h2 { 
+         text-align: center;
+	 color: darkblue;
+         font-family: Verdana;
+	 font-weight: bold;
+}
+
+table {
+       width: 80%;
+  
+}
+
+table, th, td {
+   border: 1px solid black;
+}
+
+th, td {
+    padding: 20px;
+}
+
+tr:nth-child(even) {background-color: #f2f2f2
+}
+
+th {
+     background-color: yellow;
+}
+
+
+img {
+       width: 200px;
+       height: 200px;
+       padding: 30px;
+}
+
+
+	
